@@ -4,4 +4,4 @@
 
 # Nott_Award 2
 
-![Nott_Award](award2.PNG "Title")
+![Nott_Award](award2.JPG "Title")
